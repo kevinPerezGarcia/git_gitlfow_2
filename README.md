@@ -1,2 +1,2 @@
 # git_gitlfow_2
-Versión: 1.0.0-Release
+Versión: 1.0.1-Release
